@@ -33,6 +33,9 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
   psblue:    '#012456'
-
+  florange:   '#FA4616'
+  flblue:     '0021A5'
+  flmutedblue: '#6C9AC3'
+  flmutedorange: '#E28F41'
 kramdown:
   auto_ids:  false
